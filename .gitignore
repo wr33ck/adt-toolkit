@@ -1,0 +1,9 @@
+# Local/lab-specific
+*.log
+out/
+.roci/
+*.local.ps1
+
+# OS cruft
+.DS_Store
+Thumbs.db
